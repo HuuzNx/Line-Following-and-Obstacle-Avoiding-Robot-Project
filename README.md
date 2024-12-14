@@ -1,1 +1,1 @@
-# Line-Following-and-Obstacle-Avoiding-Robot-Project
+This is my first project in university as well as a foundation for my future endeavors!
